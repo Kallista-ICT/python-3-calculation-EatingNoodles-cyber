@@ -1,4 +1,4 @@
-The presentation link is https://bit.ly/python3calc
+The presentation link is git 
 
 The assignment link is bit.ly/python3task
 
